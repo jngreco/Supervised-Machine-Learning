@@ -27,9 +27,9 @@ Open the starter code notebook and use it to complete the following steps:
 ## Create a Logistic Regression Model with the Original Data
 Use your knowledge of logistic regression to complete the following steps:
 
-1. Fit a logistic regression model by using the training data (X_train and y_train).
+1. Fit a logistic regression model by using the training data (`X_train` and `y_train`).
 
-2. Save the predictions for the testing data labels by using the testing feature data (X_test) and the fitted model.
+2. Save the predictions for the testing data labels by using the testing feature data (`X_test`) and the fitted model.
 
 3. Evaluate the model’s performance by doing the following:
 
