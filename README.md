@@ -52,6 +52,5 @@ Structure your report by using the report template that `Starter_Code.zip` inclu
 
 3. **A summary:** Summarize the results from the machine learning model. Include your justification for recommending the model for use by the company. If you don’t recommend the model, justify your reasoning.
 
-
-# [Credit Risk Analysis Report](https://github.com/jngreco/Supervised-Machine-Learning/blob/main/report-template.md)
+#### [Credit Risk Analysis Report](https://github.com/jngreco/Supervised-Machine-Learning/blob/main/report-template.md)
 
