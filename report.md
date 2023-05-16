@@ -1,11 +1,19 @@
-# Module 12 Report Template
+# Module 12 Report
 
 ## Overview of the Analysis
 
 In this section, describe the analysis you completed for the machine learning models used in this Challenge. This might include:
 
-* Explain the purpose of the analysis.
-* Explain what financial information the data was on, and what you needed to predict.
+* This analysis was conducted in order to create a model that can be used to identify the creditworthiness of borrorowers. 
+* Data used in this analysis includes a CSV with over 77,000 rows of data. The CSV contains the following information:   
+   1. loan_size
+   2. interest_rate
+   3. borrower_income
+   4. debt_to_income
+   5. num_of_accounts
+   6. derogatory_marks
+   7. total_debt
+   8. loan_status
 * Provide basic information about the variables you were trying to predict (e.g., `value_counts`).
 * Describe the stages of the machine learning process you went through as part of this analysis.
 * Briefly touch on any methods you used (e.g., `LogisticRegression`, or any resampling method).
